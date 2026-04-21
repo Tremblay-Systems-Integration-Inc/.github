@@ -1,64 +1,48 @@
 <div align="center">
 
 # Tremblay Systems Integration Inc.
-### TSI — Corporation no. 1787248-8
+**Corp. no. 1787248-8 · Repentigny, QC, Canada**
 
-**Intégration de systèmes · Conseil TI · Développement logiciel sur mesure**  
-**Systems Integration · IT Consulting · Custom Software Development**
+Systems integration, IT consulting, and custom software for SMBs.
 
-📍 Repentigny, Québec, Canada &nbsp;|&nbsp; 🌐 [tsintegration.ca](https://tsintegration.ca) &nbsp;|&nbsp; ✉️ info@tsintegration.ca
+🌐 [tsintegration.ca](https://tsintegration.ca) &nbsp;·&nbsp; ✉️ info@tsintegration.ca
 
 </div>
 
 ---
 
-## À propos / About
+## About
 
-**FR** — TSI est une société fédérale de conseil en intégration de systèmes et en développement logiciel. Nous concevons, livrons et opérons des solutions numériques pour les PME : ERP sur mesure, flux de données, automatisation des opérations et infrastructure numérique.
-
-**EN** — TSI is a federally incorporated systems integration and software consultancy. We design, deliver, and operate digital solutions for SMBs: custom ERP, data pipelines, operations automation, and digital infrastructure.
+TSI is a federally incorporated consultancy specializing in systems integration and custom software. We design, deliver, and operate digital solutions for small and medium businesses: custom ERP, operations automation, data pipelines, and digital infrastructure.
 
 ---
 
-## Ce que nous construisons / What We Build
+## Repositories
 
-| Domaine / Domain | Description |
-|---|---|
-| **ERP & Opérations** | Plateforme interne — CRM, inventaire, facturation, bons de travail |
-| **Web & Intake** | Site marketing bilingue + application de captation de leads |
-| **Gouvernance** | Suite contractuelle bilingue : MSA, NDA, SOW, accords d'actionnaires |
-| **Intégration client** | Livraison de projets, documentation de support, gestion contractuelle |
-
----
-
-## Structure des dépôts / Repository Structure
-
-> Tous les dépôts sont privés. L'accès est géré par équipe.  
 > All repositories are private. Access is managed by team.
 
-| Dépôt / Repo | Contenu |
+| Repo | Contents |
 |---|---|
-| `erp` | Plateforme ERP (Next.js, Prisma, TypeScript) |
-| `website` | Site marketing public (Vite, Tailwind) |
-| `intake` | Application web d'accueil client |
-| `governance` | Documents légaux et de gouvernance d'entreprise |
-| `clients` | Dossiers clients, contrats, factures, SOW |
-| `ops` | Opérations internes, signatures courriel, gabarits |
+| `erp` | Internal ERP platform — CRM, inventory, invoicing, work orders (Next.js, Prisma, TypeScript) |
+| `website` | Public marketing website (Vite, Tailwind) |
+| `intake` | Client intake web application |
+| `governance` | Corporate legal suite — MSAs, NDAs, SOWs, shareholder docs |
+| `clients` | Client records — contracts, invoices, delivery artifacts |
+| `ops` | Internal operations — email signatures, templates, assets |
 
 ---
 
-## Équipes / Teams
+## Teams
 
-| Équipe / Team | Rôle |
+| Team | Access |
 |---|---|
-| `admins` | Administration complète de l'organisation |
-| `engineering` | Accès en écriture aux dépôts de développement |
+| `admins` | Full org admin |
+| `engineering` | Write on `erp`, `website`, `intake` · Read on `governance`, `clients`, `ops` |
 
 ---
 
 <div align="center">
 
-*Bilingual · Bilingue — Français / English*  
-*Repentigny, QC, Canada · © 2026 Tremblay Systems Integration Inc.*
+*© 2026 Tremblay Systems Integration Inc. · Repentigny, QC, Canada*
 
 </div>
