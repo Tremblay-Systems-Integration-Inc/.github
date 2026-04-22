@@ -13,7 +13,17 @@ Systems integration, IT consulting, and custom software for SMBs.
 
 ## About
 
-TSI is a federally incorporated consultancy specializing in systems integration and custom software, operating as a subsidiary of Tremblay Operations Group (TOG) under Tremblay Holdings. We design, deliver, and operate digital solutions for small and medium businesses: custom ERP, operations automation, data pipelines, and digital infrastructure.
+TSI is a federally incorporated consultancy specializing in systems integration and custom software. We design, deliver, and operate digital solutions for small and medium businesses: custom ERP, operations automation, data pipelines, and digital infrastructure.
+
+---
+
+## Organization
+
+| Entity | Abbr. | Role |
+|--------|-------|------|
+| Tremblay Holdings | TTH | Parent organization — strategic governance and capital allocation |
+| Tremblay Operations Group | TOG | Intermediate OpsCo — licenses frameworks and manages deployment subsidiaries |
+| **Tremblay Systems Integration Inc.** | **TSI** | **This org** — IT consultancy delivering systems integration and custom software |
 
 ---
 
