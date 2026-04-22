@@ -13,7 +13,7 @@ Systems integration, IT consulting, and custom software for SMBs.
 
 ## About
 
-TSI is a federally incorporated consultancy specializing in systems integration and custom software. We design, deliver, and operate digital solutions for small and medium businesses: custom ERP, operations automation, data pipelines, and digital infrastructure.
+TSI is a federally incorporated consultancy specializing in systems integration and custom software, operating as a subsidiary of Tremblay Operations Group (TOG) under Tremblay Holdings. We design, deliver, and operate digital solutions for small and medium businesses: custom ERP, operations automation, data pipelines, and digital infrastructure.
 
 ---
 
@@ -22,11 +22,12 @@ TSI is a federally incorporated consultancy specializing in systems integration 
 > All repositories are private. Access is managed by team.
 
 | Repo | Contents |
-|---|---|
+|------|----------|
 | `erp` | Internal ERP platform — CRM, inventory, invoicing, work orders (Next.js, Prisma, TypeScript) |
+| `TSI` | Corporate docs — MSAs, NDAs, SOWs, governance records |
 | `website` | Public marketing website (Vite, Tailwind) |
 | `intake` | Client intake web application |
-| `governance` | Corporate legal suite — MSAs, NDAs, SOWs, shareholder docs |
+| `governance` | Corporate legal suite — shareholder docs, resolutions |
 | `clients` | Client records — contracts, invoices, delivery artifacts |
 | `ops` | Internal operations — email signatures, templates, assets |
 
@@ -35,7 +36,7 @@ TSI is a federally incorporated consultancy specializing in systems integration 
 ## Teams
 
 | Team | Access |
-|---|---|
+|------|--------|
 | `admins` | Full org admin |
 | `engineering` | Write on `erp`, `website`, `intake` · Read on `governance`, `clients`, `ops` |
 
