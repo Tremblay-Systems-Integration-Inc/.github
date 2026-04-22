@@ -21,7 +21,7 @@ TSI is a federally incorporated consultancy specializing in systems integration 
 
 | Entity | Abbr. | Role |
 |--------|-------|------|
-| Tremblay Holdings | TTH | Parent organization — strategic governance and capital allocation |
+| Tremblay Holdings | TH | Parent organization — strategic governance and capital allocation |
 | Tremblay Operations Group | TOG | Intermediate OpsCo — licenses frameworks and manages deployment subsidiaries |
 | **Tremblay Systems Integration Inc.** | **TSI** | **This org** — IT consultancy delivering systems integration and custom software |
 
